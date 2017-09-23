@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NearestLocationTest</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_location_permission_message">Location Permission is required to use this app</string>
+    <string name="find_nearest_location">Find nearest location</string>
+    <string name="nearest_location_title">Nearest Location</string>
+    <string name="address_message">Address of nearest location is</string>
+    <string name="btn_ok">OK</string>
+    <string name="apologies_title">Apologies!</string>
+    <string name="no_permission_message">This app won\'t work without location permission</string>
+</resources>
